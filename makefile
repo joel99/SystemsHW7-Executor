@@ -1,5 +1,5 @@
 compile: executor.c 
-	gcc executor. -o exec
+	gcc executor.c -o exec
 
 run: 
 	./exec
